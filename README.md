@@ -87,9 +87,9 @@ For reference, the main dependencies were:
 
 For any questions about this project, feel free to reach out:
 
-- **Author**: Cameron Palmer, [https://cameronmpalmer.com/]()
+- **Author**: Cameron Palmer, [https://cameronmpalmer.com/](https://cameronmpalmer.com/)
 - **Email**: [cameron@cameronmpalmer.com](mailto:cameron@cameronmpalmer.com)
-- **LinkedIn**: [https://www.linkedin.com/in/cameronmpalmer/]()
+- **LinkedIn**: [https://www.linkedin.com/in/cameronmpalmer/](https://www.linkedin.com/in/cameronmpalmer/)
 - **GitHub**: [https://github.com/palmtrey](https://github.com/palmtrey)
 
 ## Resources
